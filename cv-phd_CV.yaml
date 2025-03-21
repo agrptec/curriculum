@@ -126,7 +126,7 @@ cv:
         location:
         summary: Open web platform for traffic conflict analysis
         highlights:
-          - Developed a web platform for traffic conflict analysis, it involves the training of obb detectors and bird eye mapping to extract trajectories of vehicles
+          - Free tool to identify traffic conflicts through the analysis of videos captured by cameras installed at road intersections
           - The platform is made open-source, this is the [web page](https://tca.mexico.itdp.org/) and this is the [repository](https://github.com/ITDPmx/traffic-conflicts-analysis)
       - name: Speckle Tracking Algorithm using Deep Learning.
         date:
