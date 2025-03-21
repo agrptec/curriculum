@@ -666,7 +666,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A subscription-based platform for urban monitoring])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([We have a subscription-based platform integrating computer vision for occupancy, trajectories, and activities, using existing surveillance cameras. The platform also incorporates custom environmental sensors, and we are developing a multimodal sensor \(radar + vision\) for analyzing urban space usage. With a TRL 4, our project aims to create healthy, sustainable, and successful urban spaces, with a growth projection as a startup, having already participated in incubators.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([We have a subscription-based platform integrating computer vision for occupancy, trajectories, and activities, using existing surveillance cameras. The platform also incorporates custom environmental sensors, and we are developing a multimodal sensor \(radar + vision\) for analyzing urban space usage. With a TRL 4, our project aims to create healthy, sustainable, and successful urban spaces, with a growth projection as a startup, having already participated in incubators.],[Acceleration funding - Coramino Acceleration Funding from Jose Cuervo Foundation],[Credits funding - AI for Good Open Call from Microsoft],)
   ],
 )
 
@@ -683,7 +683,7 @@
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Open web platform for traffic conflict analysis])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Developed a web platform for traffic conflict analysis, it involves the training of obb detectors and bird eye mapping to extract trajectories of vehicles],[The platform is made open-source, this is the #link("https://tca.mexico.itdp.org/")[web page] and this is the #link("https://github.com/ITDPmx/traffic-conflicts-analysis")[repository]],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Free tool to identify traffic conflicts through the analysis of videos captured by cameras installed at road intersections],[The platform is made open-source, this is the #link("https://tca.mexico.itdp.org/")[web page] and this is the #link("https://github.com/ITDPmx/traffic-conflicts-analysis")[repository]],[Collaboration project funding from ITDP Mexico and FIA Foundation],)
   ],
 )
 
@@ -740,15 +740,11 @@
 
 
 #one-col-entry(
-  content: [#strong[Programming:] Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps]
+  content: [#strong[Programming:] C, C++, JAVA, Python, Scala, FORTRAN, VHDL, MATLAB, R, SQL, HTML, CSS, JavaScript, CUDA, OpenCL]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Mathematics:] Good understanding of differential equations, calculus, and linear algebra]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Languages:] English \(fluent, TOEFL: 118\/120\), Turkish \(native\)]
+  content: [#strong[Languages:] English \(fluent\), Spanish \(native\)]
 )
 
 
@@ -771,45 +767,67 @@
 
 
 
-== Extracurricular Activities
+== Congresses
 
 
-#one-col-entry(
-  content: [- There are 7 unique entry types in RenderCV: #emph[BulletEntry], #emph[TextEntry], #emph[EducationEntry], #emph[ExperienceEntry], #emph[NormalEntry], #emph[PublicationEntry], and #emph[OneLineEntry].],
+#two-col-entry(
+  left-content: [
+    #strong[Smart Cities World Congress] -- #strong[Barcelona]
+  ],
+  right-content: [
+    Nov 2024
+  ],
 )
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
 #v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Each entry type has a different structure and layout. This document demonstrates all of them.],
+#two-col-entry(
+  left-content: [
+    #strong[Urban Open Day, Tecnológico de Monterrey] -- #strong[Monterrey, Mexico]
+  ],
+  right-content: [
+    Nov 2023
+  ],
 )
-
-
-== Numbered Entries
 #one-col-entry(
   content: [
-
-
-+ This is a numbered entry.
-+ This is another numbered entry.
-+ This is the third numbered entry.
-
+    #v(design-highlights-top-margin);#highlights([Presentation of “A Comprehensive Computer Vision Framework for Urban Analytics and Understanding Human Interactions in Public Space”],)
   ],
 )
 
-== Reversed Numbered Entries
-#one-col-entry(
-  content: [
-    #let rev-enum-items = (
-
-
-[This is a reversed numbered entry.],
-[This is another reversed numbered entry.],
-[This is the third reversed numbered entry.],
-
-  )
-  #enum(
-    numbering: n => [#{rev-enum-items.len() + 1 - n}.],
-    ..rev-enum-items,
-  )
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[6th Winter School on Data Science and Complex Systems, IIMAS-UNAM] -- #strong[Mérida, Yucatán]
+  ],
+  right-content: [
+    Jan 2023
   ],
 )
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([Give a workshop of Neural Networks],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC] -- #strong[Glasgow]
+  ],
+  right-content: [
+    July 2022
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([E-Poster presentation],)
+  ],
+)
+
+
 

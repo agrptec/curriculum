@@ -83,12 +83,15 @@ Data Scientist specializing in signal and image processing, machine learning, an
 
 - Feb 2023 – present
 - We have a subscription-based platform integrating computer vision for occupancy, trajectories, and activities, using existing surveillance cameras. The platform also incorporates custom environmental sensors, and we are developing a multimodal sensor (radar + vision) for analyzing urban space usage. With a TRL 4, our project aims to create healthy, sustainable, and successful urban spaces, with a growth projection as a startup, having already participated in incubators.
+- Acceleration funding - Coramino Acceleration Funding from Jose Cuervo Foundation
+- Credits funding - AI for Good Open Call from Microsoft
 
 ## Traffic Conflict Analysis
 
 - Apr 2024 – Aug 2024
-- Developed a web platform for traffic conflict analysis, it involves the training of obb detectors and bird eye mapping to extract trajectories of vehicles
+- Free tool to identify traffic conflicts through the analysis of videos captured by cameras installed at road intersections
 - The platform is made open-source, this is the [web page](https://tca.mexico.itdp.org/) and this is the [repository](https://github.com/ITDPmx/traffic-conflicts-analysis)
+- Collaboration project funding from ITDP Mexico and FIA Foundation
 
 ## Speckle Tracking Algorithm using Deep Learning.
 
@@ -108,26 +111,36 @@ Data Scientist specializing in signal and image processing, machine learning, an
 
 # Skills
 
-- Programming: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
-- Mathematics: Good understanding of differential equations, calculus, and linear algebra
-- Languages: English (fluent, TOEFL: 118/120), Turkish (native)
+- Programming: C, C++, JAVA, Python, Scala, FORTRAN, VHDL, MATLAB, R, SQL, HTML, CSS, JavaScript, CUDA, OpenCL
+- Languages: English (fluent), Spanish (native)
 # Publications
 
 ## Estimating Echocardiographic Myocardial Strain of Left Ventricle with Deep Learning ([10.1109/EMBC48229.2022.9872008](https://doi.org/10.1109/EMBC48229.2022.9872008))
 - Sept 2022
 - Alan Romero-Pacheco, Jorge Perez-Gonzalez, Nidiyare Hevia-Montiel
 
-# Extracurricular Activities
+# Congresses
 
-- There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Each entry type has a different structure and layout. This document demonstrates all of them.
-# Numbered Entries
+## Smart Cities World Congress
 
-- This is a numbered entry.
-- This is another numbered entry.
-- This is the third numbered entry.
-# Reversed Numbered Entries
+- Nov 2024
+- Barcelona
 
-- This is a reversed numbered entry.
-- This is another reversed numbered entry.
-- This is the third reversed numbered entry.
+## Urban Open Day, Tecnológico de Monterrey
+
+- Nov 2023
+- Monterrey, Mexico
+- Presentation of “A Comprehensive Computer Vision Framework for Urban Analytics and Understanding Human Interactions in Public Space”
+
+## 6th Winter School on Data Science and Complex Systems, IIMAS-UNAM
+
+- Jan 2023
+- Mérida, Yucatán
+- Give a workshop of Neural Networks
+
+## Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC
+
+- July 2022
+- Glasgow
+- E-Poster presentation
+

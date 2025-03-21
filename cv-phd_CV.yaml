@@ -118,7 +118,8 @@ cv:
         summary: A subscription-based platform for urban monitoring
         highlights:
           - We have a subscription-based platform integrating computer vision for occupancy, trajectories, and activities, using existing surveillance cameras. The platform also incorporates custom environmental sensors, and we are developing a multimodal sensor (radar + vision) for analyzing urban space usage. With a TRL 4, our project aims to create healthy, sustainable, and successful urban spaces, with a growth projection as a startup, having already participated in incubators.
-
+          - Acceleration funding - Coramino Acceleration Funding from Jose Cuervo Foundation
+          - Credits funding - AI for Good Open Call from Microsoft
       - name: Traffic Conflict Analysis
         date:
         start_date: 2024-04
@@ -128,6 +129,7 @@ cv:
         highlights:
           - Free tool to identify traffic conflicts through the analysis of videos captured by cameras installed at road intersections
           - The platform is made open-source, this is the [web page](https://tca.mexico.itdp.org/) and this is the [repository](https://github.com/ITDPmx/traffic-conflicts-analysis)
+          - Collaboration project funding from ITDP Mexico and FIA Foundation
       - name: Speckle Tracking Algorithm using Deep Learning.
         date:
         start_date: 2021-02
@@ -155,11 +157,9 @@ cv:
           - Mobile-controlled device to monitor vital signs, displaying pressure, temperature, and heart rate using a microcontroller, Bluetooth, and sensors. 
     skills:
       - label: Programming
-        details: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
-      - label: Mathematics
-        details: Good understanding of differential equations, calculus, and linear algebra
+        details: C, C++, JAVA, Python, Scala, FORTRAN, VHDL, MATLAB, R, SQL, HTML, CSS, JavaScript, CUDA, OpenCL
       - label: Languages
-        details: 'English (fluent, TOEFL: 118/120), Turkish (native)'
+        details: 'English (fluent), Spanish (native)'
     publications:
       - title: Estimating Echocardiographic Myocardial Strain of Left Ventricle with Deep Learning
         authors:
@@ -170,17 +170,45 @@ cv:
         url:
         journal:
         date: 2022-09
-    extracurricular_activities:
-      - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
-    numbered_entries:
-      - number: This is a numbered entry.
-      - number: This is another numbered entry.
-      - number: This is the third numbered entry.
-    reversed_numbered_entries:
-      - reversed_number: This is a reversed numbered entry.
-      - reversed_number: This is another reversed numbered entry.
-      - reversed_number: This is the third reversed numbered entry.
+
+    Congresses:
+      - name: Smart Cities World Congress
+        date: 2024-11
+        start_date: 
+        end_date: 
+        location: Barcelona
+        summary: 
+        highlights:
+
+      - name: Urban Open Day, Tecnológico de Monterrey
+        date: 2023-11
+        start_date: 
+        end_date: 
+        location: Monterrey, Mexico
+        summary: 
+        highlights:
+          - Presentation of “A Comprehensive Computer Vision Framework for Urban Analytics and Understanding Human Interactions in Public Space”
+
+      - name: 6th Winter School on Data Science and Complex Systems, IIMAS-UNAM
+        date: 2023-01
+        start_date: 
+        end_date: 
+        location: Mérida, Yucatán
+        summary: 
+        highlights:
+          - Give a workshop of Neural Networks
+
+      - name: Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC
+        date: 2022-07
+        start_date: 
+        end_date: 
+        location: Glasgow
+        summary: 
+        highlights:
+          - E-Poster presentation
+
+
+
 design:
   theme: engineeringclassic
   page:
