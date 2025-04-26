@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [Data Scientist specializing in signal and image processing, machine learning, and computer vision, with applications in medical imaging, video surveillance, IoT, and multimodal radar-vision systems. Passionate about innovation and technology transfer, I develop AI-driven systems to advance healthcare, smart cities, and urban analytics. My work focuses on extracting insights from complex data to improve decision-making in medicine and urban planning.]
+  content: [Data Scientist specializing in signal and image processing, machine learning, and computer vision, with a focus on urban planning, and multimodal sensor systems. My expertise spans applications in smart cities, healthcare, and IoT, where I develop AI-driven solutions to extract insights from complex data for decision-making in urban planning and healthcare. I am passionate about innovation and technology transfer, and I have experience building scalable platforms and collaborating with research institutions to advance sustainability and urban mobility.]
 )
 
 
@@ -673,6 +673,21 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
+    #strong[Adaptation of the GTAModel V4 for the Monterrey Metropolitan Area] 
+  ],
+  right-content: [
+    June 2023 – present
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([This project is part of the Monterrey Metropolitan Area's traffic microsimulation project, where I am responsible for the automated construction and refinement of transportation networks using Python and VISUM.],[Collaboration with the Travel Modelling Group, University of Toronto],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Traffic Conflict Analysis] 
   ],
   right-content: [
@@ -751,6 +766,21 @@
 == Publications
 
 
+#two-col-entry(
+  left-content: [
+    #strong[Deep Learning based Estimation of Left Ventricle Myocardial Strain from Echocardiograms with Occlusion Artifacts]
+
+  ],
+  right-content: [
+    submitted
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);Alan Romero-Pacheco, Nidiyare Hevia-Montiel, Blanca Vazquez, Fernando Arámbula Cosı́o, Jorge Perez-Gonzalez
+
+#v(design-highlights-top-margin - design-text-leading)Journal of Medical Imaging])
+
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #strong[Estimating Echocardiographic Myocardial Strain of Left Ventricle with Deep Learning]

@@ -11,7 +11,7 @@ cv:
       username: alandgabriel
   sections:
     Personal Profile:
-      - Data Scientist specializing in signal and image processing, machine learning, and computer vision, with applications in medical imaging, video surveillance, IoT, and multimodal radar-vision systems. Passionate about innovation and technology transfer, I develop AI-driven systems to advance healthcare, smart cities, and urban analytics. My work focuses on extracting insights from complex data to improve decision-making in medicine and urban planning. 
+      - Data Scientist specializing in signal and image processing, machine learning, and computer vision, with a focus on urban planning, and multimodal sensor systems. My expertise spans applications in smart cities, healthcare, and IoT, where I develop AI-driven solutions to extract insights from complex data for decision-making in urban planning and healthcare. I am passionate about innovation and technology transfer, and I have experience building scalable platforms and collaborating with research institutions to advance sustainability and urban mobility. 
     education:
       - institution: UNAM
         area: Computer Science and Engineering
@@ -120,6 +120,15 @@ cv:
           - We have a subscription-based platform integrating computer vision for occupancy, trajectories, and activities, using existing surveillance cameras. The platform also incorporates custom environmental sensors, and we are developing a multimodal sensor (radar + vision) for analyzing urban space usage. With a TRL 4, our project aims to create healthy, sustainable, and successful urban spaces, with a growth projection as a startup, having already participated in incubators.
           - Acceleration funding - Coramino Acceleration Funding from Jose Cuervo Foundation
           - Credits funding - AI for Good Open Call from Microsoft
+      - name: Adaptation of the GTAModel V4 for the Monterrey Metropolitan Area
+        date:
+        start_date: 2023-06
+        end_date: present
+        location:
+        summary: 
+        highlights:
+          - This project is part of the Monterrey Metropolitan Area's traffic microsimulation project, where I am responsible for the automated construction and refinement of transportation networks using Python and VISUM.
+          - Collaboration with the Travel Modelling Group, University of Toronto
       - name: Traffic Conflict Analysis
         date:
         start_date: 2024-04
@@ -161,6 +170,16 @@ cv:
       - label: Languages
         details: 'English (fluent), Spanish (native)'
     publications:
+      - title: Deep Learning based Estimation of Left Ventricle Myocardial Strain from Echocardiograms with Occlusion Artifacts
+        authors:
+          - Alan Romero-Pacheco
+          - Nidiyare Hevia-Montiel
+          - Blanca Vazquez
+          - Fernando Arámbula Cosı́o
+          - Jorge Perez-Gonzalez
+        url:
+        journal: Journal of Medical Imaging
+        date: submitted
       - title: Estimating Echocardiographic Myocardial Strain of Left Ventricle with Deep Learning
         authors:
           - Alan Romero-Pacheco

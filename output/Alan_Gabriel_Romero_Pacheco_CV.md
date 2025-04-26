@@ -9,7 +9,7 @@
 
 # Personal Profile
 
-Data Scientist specializing in signal and image processing, machine learning, and computer vision, with applications in medical imaging, video surveillance, IoT, and multimodal radar-vision systems. Passionate about innovation and technology transfer, I develop AI-driven systems to advance healthcare, smart cities, and urban analytics. My work focuses on extracting insights from complex data to improve decision-making in medicine and urban planning.
+Data Scientist specializing in signal and image processing, machine learning, and computer vision, with a focus on urban planning, and multimodal sensor systems. My expertise spans applications in smart cities, healthcare, and IoT, where I develop AI-driven solutions to extract insights from complex data for decision-making in urban planning and healthcare. I am passionate about innovation and technology transfer, and I have experience building scalable platforms and collaborating with research institutions to advance sustainability and urban mobility.
 
 # Education
 
@@ -86,6 +86,12 @@ Data Scientist specializing in signal and image processing, machine learning, an
 - Acceleration funding - Coramino Acceleration Funding from Jose Cuervo Foundation
 - Credits funding - AI for Good Open Call from Microsoft
 
+## Adaptation of the GTAModel V4 for the Monterrey Metropolitan Area
+
+- June 2023 – present
+- This project is part of the Monterrey Metropolitan Area's traffic microsimulation project, where I am responsible for the automated construction and refinement of transportation networks using Python and VISUM.
+- Collaboration with the Travel Modelling Group, University of Toronto
+
 ## Traffic Conflict Analysis
 
 - Apr 2024 – Aug 2024
@@ -114,6 +120,11 @@ Data Scientist specializing in signal and image processing, machine learning, an
 - Programming: C, C++, JAVA, Python, Scala, FORTRAN, VHDL, MATLAB, R, SQL, HTML, CSS, JavaScript, CUDA, OpenCL
 - Languages: English (fluent), Spanish (native)
 # Publications
+
+## Deep Learning based Estimation of Left Ventricle Myocardial Strain from Echocardiograms with Occlusion Artifacts 
+- submitted
+- Alan Romero-Pacheco, Nidiyare Hevia-Montiel, Blanca Vazquez, Fernando Arámbula Cosı́o, Jorge Perez-Gonzalez
+- Journal of Medical Imaging
 
 ## Estimating Echocardiographic Myocardial Strain of Left Ventricle with Deep Learning ([10.1109/EMBC48229.2022.9872008](https://doi.org/10.1109/EMBC48229.2022.9872008))
 - Sept 2022
